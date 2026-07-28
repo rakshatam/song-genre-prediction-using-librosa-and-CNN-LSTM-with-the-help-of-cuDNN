@@ -8,7 +8,7 @@
 [![Librosa](https://img.shields.io/badge/Librosa-%23282C34.svg?style=flat&logo=librosa&logoColor=white)](https://librosa.org/)
 
 This project implements a music genre classification system using a Convolutional Recurrent Neural Network (CRNN) in TensorFlow/Keras. It processes raw audio files, extracts a comprehensive set of acoustic features, applies data augmentation techniques, and trains a robust model to categorize music into distinct genres. The pipeline includes feature engineering, model training with callbacks and class weighting, and thorough evaluation using a confusion matrix and classification report.
-## THIS REPOS IS DPRECATED AND IS REPLACED BY V2 of it
+## WARNING: THIS REPOS IS DPRECATED AND IS REPLACED BY V2 of it
 ---
 
 ## Features
